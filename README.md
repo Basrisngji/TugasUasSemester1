@@ -2,11 +2,11 @@
 
 ## SOAL UJIAN
 
-![1](ss/soal_uas.png)
+![1](screenshot/1.png)
 
 ## Struktur Package & Module
 
-![2](ss/modul.png)
+![2](screenshot/2.png)
 
 - Didalam folder / package model terdapat 1 file dengan nama daftar nilai. Dan didalam file tersebut telah terdapat beberapa function yang dibuat untuk menjalankan program tersebut.<br>
 - Berikut adalah isi dari file **daftar_nilai.py**
@@ -264,22 +264,22 @@ while True:
 
 <p>Tambah data<p>
 
-![3](ss/3.png)
+![3](screenshot/3.png)
 
 <p>Ubah data<p>
 
-![4](ss/4.png)
+![4](screenshot/4.png)
 
 <p>Cari data<p>
 
-![5](ss/5.png)
+![5](screenshot/5.png)
 
 <p>Hapus data<p>
 
-![6](ss/6.png)
+![6](screenshot/6.png)
 
 <p>Menampilkan atau cetak<p>
 
-![7](ss/7.png)
+![7](screenshot/7.png)
 
 ## TERIMA KASIH
