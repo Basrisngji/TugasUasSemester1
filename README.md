@@ -270,11 +270,11 @@ while True:
 
 ![4](screenshot/4.png)
 
-<p>Cari data<p>
+<p>Hapus data<p>
 
 ![5](screenshot/5.png)
 
-<p>Hapus data<p>
+<p>Cari data<p>
 
 ![6](screenshot/6.png)
 
